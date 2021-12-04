@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react_table_sorting/static/css/main.e8ee6299.chunk.css",
+    "main.js": "/react_table_sorting/static/js/main.dd71babc.chunk.js",
+    "main.js.map": "/react_table_sorting/static/js/main.dd71babc.chunk.js.map",
+    "runtime-main.js": "/react_table_sorting/static/js/runtime-main.0cef02ae.js",
+    "runtime-main.js.map": "/react_table_sorting/static/js/runtime-main.0cef02ae.js.map",
+    "static/js/2.18af78d4.chunk.js": "/react_table_sorting/static/js/2.18af78d4.chunk.js",
+    "static/js/2.18af78d4.chunk.js.map": "/react_table_sorting/static/js/2.18af78d4.chunk.js.map",
+    "index.html": "/react_table_sorting/index.html",
+    "static/css/main.e8ee6299.chunk.css.map": "/react_table_sorting/static/css/main.e8ee6299.chunk.css.map",
+    "static/js/2.18af78d4.chunk.js.LICENSE.txt": "/react_table_sorting/static/js/2.18af78d4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cef02ae.js",
+    "static/js/2.18af78d4.chunk.js",
+    "static/css/main.e8ee6299.chunk.css",
+    "static/js/main.dd71babc.chunk.js"
+  ]
+}
